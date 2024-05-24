@@ -1,0 +1,34 @@
+#     ▒███████▒▒██   ██▒ ▄████▄   ▒█████   ██▓ ███▄    █ 
+#     ▒ ▒ ▒ ▄▀░▒▒ █ █ ▒░▒██▀ ▀█  ▒██▒  ██▒▓██▒ ██ ▀█   █ 
+#     ░ ▒ ▄▀▒░ ░░  █   ░▒▓█    ▄ ▒██░  ██▒▒██▒▓██  ▀█ ██▒
+#       ▄▀▒   ░ ░ █ █ ▒ ▒▓▓▄ ▄██▒▒██   ██░░██░▓██▒  ▐▌██▒
+#     ▒███████▒▒██▒ ▒██▒▒ ▓███▀ ░░ ████▓▒░░██░▒██░   ▓██░
+#     ░▒▒ ▓░▒░▒▒▒ ░ ░▓ ░░ ░▒ ▒  ░░ ▒░▒░▒░ ░▓  ░ ▒░   ▒ ▒ 
+#     ░░▒ ▒ ░ ▒░░   ░▒ ░  ░  ▒     ░ ▒ ▒░  ▒ ░░ ░░   ░ ▒░
+#     ░ ░ ░ ░ ░ ░    ░  ░        ░ ░ ░ ▒   ▒ ░   ░   ░ ░ 
+#       ░ ░     ░    ░  ░ ░          ░ ░   ░           ░ 
+#     ░                 ░                                
+#         ███▄    █  ▒█████  ▓█████▄ ▓█████   ██████     
+#         ██ ▀█   █ ▒██▒  ██▒▒██▀ ██▌▓█   ▀ ▒██    ▒     
+#        ▓██  ▀█ ██▒▒██░  ██▒░██   █▌▒███   ░ ▓██▄       
+#        ▓██▒  ▐▌██▒▒██   ██░░▓█▄   ▌▒▓█  ▄   ▒   ██▒    
+#        ▒██░   ▓██░░ ████▓▒░░▒████▓ ░▒████▒▒██████▒▒    
+#        ░ ▒░   ▒ ▒ ░ ▒░▒░▒░  ▒▒▓  ▒ ░░ ▒░ ░▒ ▒▓▒ ▒ ░    
+#        ░ ░░   ░ ▒░  ░ ▒ ▒░  ░ ▒  ▒  ░ ░  ░░ ░▒  ░ ░    
+#           ░   ░ ░ ░ ░ ░ ▒   ░ ░  ░    ░   ░  ░  ░      
+#                 ░     ░ ░     ░       ░  ░      ░      
+#                         ░                          
+#
+# ZXCoin Cryptocurrency Nodes
+# A node in the ZXCoin network is a server responsible for broadcasting messages
+# that each peer wishes to share. The decentralized nature of ZXCoin relies on
+# multiple nodes to ensure the integrity and security of the broadcasted messages,
+# preventing any possibility of forgery. To contribute to the network, you can add a
+# node by following the format below:
+#
+# host:port
+#
+# Please ensure that each entry adheres to this format to maintain network consistency and reliability.
+#
+# -=- Start of nodes.txt -=-
+host:port
