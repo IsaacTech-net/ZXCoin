@@ -32,4 +32,4 @@
 # Please ensure that each entry adheres to this format to maintain network consistency and reliability.
 #
 # -=- Start of nodes.txt -=-
-host:port
+de-1-min.nodes.isaactech.net:5002
