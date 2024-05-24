@@ -20,6 +20,7 @@
 #                         ░                          
 #
 # ZXCoin Cryptocurrency Nodes
+#
 # A node in the ZXCoin network is a server responsible for broadcasting messages
 # that each peer wishes to share. The decentralized nature of ZXCoin relies on
 # multiple nodes to ensure the integrity and security of the broadcasted messages,
